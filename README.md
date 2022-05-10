@@ -4,7 +4,7 @@
 
 Application UI Youtube
 
-See : example.jpg
+<img src="example.jpg" alt="example" />
 
 Run & Build : main.dart
 
